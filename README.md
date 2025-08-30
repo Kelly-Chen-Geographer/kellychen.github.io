@@ -20,9 +20,7 @@
 ---
 
 ## About Me  
-Hello! I’m Kelly, a data analytics professional ready to supercharge your team's data capacity! With a Ph.D. in Geography from the University of Wisconsin-Madison and an ongoing Master in Data Science from Old Dominion University, I have dedicated over 10 years to turning complex datasets into actionable insights. Along the way, I’ve developed a diverse technical toolkit and a passion for solving real-world problems through data.  
-
----
+Hi! I’m Kelly, a seasoned researcher and data analyst, and a passionate advocate for the transformative power of data in decision-making. With a Ph.D. in Geography from the University of Wisconsin-Madison and an ongoing Master’s in Data Science from Old Dominion University, I have spent over a decade leveraging data to generate insights and strategies across diverse sectors. I help conservation non-profit obtain real-time updates on deforestation, facilitate corporate business development by automating data pipelines, and drive academic research monitoring the loss of wetland ecosystems to urbanization.These days, I’m busy exploring ways to integrat AI tools into data workflow!---
 
 ## Connect 🤝  
 <p>
