@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://github.com/kelly-chen-geographer/chen-photo/blob/main/headshot_circle.png?raw=true" 
+      <img src="https://raw.githubusercontent.com/kellychenDS/kellychen.github.io/bcbe888bf9afb4722e6a7ef2412ca80e90fc27b5/photo.jpg" 
            alt="Kelly Chen Headshot" width="150" style="border-radius:50%">
     </td>
     <td>
